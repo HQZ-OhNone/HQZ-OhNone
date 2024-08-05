@@ -6,9 +6,12 @@
 - How to reach me: email me at **ohnone_hqz@outlook.com**.
 - Fun fact: I am so lazy that I almost do nothing. I sometimes don't get emails in time.
 
-![logo](/pictures/HQZ_logo_300.png)
+---
+
+This is my logo by myself.  
+![logo](HQZ_logo_300.png "It's both simple and beautiful，right?")
 
 ---
 
->the *1st* version  
->2024/8/5
+>the *2nd* version  
+>2024/8/6
