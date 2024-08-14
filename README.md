@@ -9,9 +9,9 @@
 ---
 
 This is my logo by myself.  
-![logo](HQZ_logo_300.png "It's both simple and beautiful，right?")
+[![logo](白底HQZ_logo_1000.png "It's both simple and beautiful，right?")](https://github.com/HQZ-OhNone/)
 
 ---
 
->the *2nd* version  
->2024/8/6
+>the *3rd* version  
+>2024/8/14
